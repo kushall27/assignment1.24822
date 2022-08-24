@@ -1,0 +1,16 @@
+1). Because computer want to communicate with lakhs of transistors inside the hardwares
+
+2). Intergreted devlopment environment
+
+3). text editior only writes the information and it save in the form of .txt file no compiler included.
+
+code editor edit the given programme or take the programmer from user to perform  and compiler compile it in the binary and give the task to the hardware which is gen by user.
+
+4). there are three steps
+> download the reqirment of the software
+> select the code editor 
+> create a environment
+
+5). 
+> c17
+> c is devloped by dennis richie in 1942 in bell laboraitre
