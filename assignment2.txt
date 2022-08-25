@@ -1,0 +1,10 @@
+1} 4.5, 3.0, -0.0
+2} dynamic, define, is, this, super
+3}
+4} No
+5} Their meaning is stored in the library and also defined in the library
+6} RAM
+7} Dennis Ritchie
+8} 1972
+9} marcos
+10} It is nor a high level or low level language. It is mid level language.
